@@ -1,6 +1,6 @@
 (function() {
     var js = document.createElement("script");
-    js.src = "https://github.com/Thadern/fr24-overlay-vhhk/raw/refs/heads/master/routes.js"; //a
+    js.src = "https://github.com/Thadern/fr24-overlay-vhhk/raw/refs/heads/master/routes.js";
     document.body.appendChild(js);
     js = document.createElement("script");
     js.src = "https://github.com/Thadern/fr24-overlay-vhhk/raw/refs/heads/master/fir.js";
